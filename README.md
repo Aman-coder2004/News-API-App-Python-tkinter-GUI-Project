@@ -24,7 +24,7 @@ NewsApp/
 │
 ├── news_app.py # Main application file
 ├── README.md # Project documentation
-└── Screeshot of news #GUI of APP
+└── Screenshot of NEWS APP #GUI of APP
 
 ## 📸 Photos
 - ![News Api App](newsapi1.png)
