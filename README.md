@@ -47,7 +47,7 @@ NewsApp/
 - **Requests** → API calls  
 - **PIL (Pillow)** → Image processing  
 - **Webbrowser** → Open articles in browser  
-- **OPPS** → For writing the functions
+- **OOPS** → For writing the functions
 --- 
 
 ## 🚀 Future Improvements
